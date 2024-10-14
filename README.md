@@ -1,0 +1,2 @@
+# wzorceProjektowe
+Projekt biblioteki
